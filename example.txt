@@ -1,4 +1,11 @@
 This is the example file of git study.
 This file's content is: We are awesome team.
 
+
 Example file of Nakano sama
+This is test
+
+second time
+This is test
+This is second time.
+
